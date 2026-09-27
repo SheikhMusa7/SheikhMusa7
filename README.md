@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:38bdf8,50:8b5cf6,100:ec4899&section=header&text=Musa%20Ahmad&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=AI%20Engineer%20%E2%80%A2%20Building%20AI%20Products%20%26%20Startups&descSize=17&descAlignY=55" width="100%" alt="Musa Ahmad">
+<img src="assets/banner.svg" width="100%" alt="Musa Ahmad - AI Engineer">
 
 <div align="center">
 
@@ -101,4 +101,4 @@ footballer: true   # discipline is a transferable skill
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:38bdf8,50:8b5cf6,100:ec4899&section=footer" width="100%" alt="">
+<img src="assets/footer.svg" width="100%" alt="">
